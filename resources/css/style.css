@@ -44,7 +44,7 @@ nav a {
   justify-content:center;
   height: 700px;
   width: 1200px;
-  background-image: url("E:/projects/TeaCozy/resources/images/img-mission-background.jpg");
+  background-image: url("../images/img-mission-background.jpg");
 }
 .missiontext {
   background-color: black;
@@ -78,7 +78,7 @@ h2, h3, h4 {
   justify-content:flex-start;
   width: 1200px;
   height: 500px;
-  background-image: url("E:/projects/TeaCozy/resources/images/img-locations-background.jpg");
+  background-image: url("../images/img-locations-background.jpg");
 }
 .title {
   margin-top: 50px;
